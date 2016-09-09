@@ -1,0 +1,8 @@
+{"maps":
+  {"test":
+    [
+      {"latitude":123.123, "longitude":5482, "value":12323, "comment":"Not much here"},
+      {"latitude":123.123, "longitude":5482, "value":12323, "comment":"Not much here"}
+    ]
+  }
+}
